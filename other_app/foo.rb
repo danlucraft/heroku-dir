@@ -1,1 +1,1 @@
-puts "some other app thing"
+puts "some other app thing" + 2.to_s
